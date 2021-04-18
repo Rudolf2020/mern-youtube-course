@@ -1,0 +1,6 @@
+{
+    "port": 5000,
+    "jwtSecret": "Rudolf igit ksjd",
+    "mongoUri": "mongodb+srv://Rudolf2020:RUDolfik2015@cluster0.gyvhl.mongodb.net/app?retryWrites=true&w=majority",
+    "baseUrl": "http://localhost:5000"
+}
